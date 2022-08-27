@@ -16,3 +16,4 @@ design within one hour with the following constraints:
 
 {{ Include a screenshot of the implementation within the time of working. }}
 
+## Discussion
