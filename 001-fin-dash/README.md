@@ -7,6 +7,13 @@ design within one hour with the following constraints:
 - Time yourself for 15 minutes of planning the engineering work.
 - Time yourself for 1 hour of implementation
 
+## Installing and Running the Code
+
+- Install the following in your environment:
+  - [nvm](https://github.com/nvm-sh/nvm)
+- Clone the repo and switch to the {{ dir_name }} directory
+- Run `npm install && npm start` from terminal
+
 
 ## The Design
 
